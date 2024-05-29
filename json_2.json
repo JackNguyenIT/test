@@ -1,0 +1,51 @@
+{
+  "id": 2,
+  "name": "5 Centimeters Per Second",
+  "slug": "5-centimeters-per-second",
+  "total_Views": 12813,
+  "monthly_Views": 288,
+  "genre_string": "Drama, Animation, Family, Cinema, Full",
+  "genre": [
+    {
+      "name": "Drama",
+      "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-2.jpg"
+    },
+    {
+      "name": " Animation",
+      "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-2.jpg"
+    },
+    {
+      "name": " Family",
+      "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-2.jpg"
+    },
+    {
+      "name": " Cinema",
+      "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-2.jpg"
+    },
+    {
+      "name": " Full",
+      "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-2.jpg"
+    }
+  ],
+  "cast": "",
+  "director": "Makoto Shinkai",
+  "country": "Japan",
+  "year": 2024,
+  "release_Date": "2024-03-03T00:00:00.000000Z",
+  "update_Date": "2017-03-28T00:00:00.000000Z",
+  "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-2.jpg",
+  "description": "Told in three interconnected segments, Takaki tells the story of his life as cruel winters, cold technology, and finally, adult obligations and responsibility converge to test the delicate petals of love.",
+  "trailer": "https://www.youtube.com/watch?v=wdM7athAem0",
+  "imdb_rating": 7.5,
+  "quality": "Full HD",
+  "episodes_Count": 1,
+  "episodes": [
+    {
+      "Name": "Full",
+      "Link": "https://cdn.cdnmoviking.tech/embed?id=bddad053080c4c978f5e2c24f17cbf0d&subId=23b2f2f33e6742ed8fb06c19de4ce584&web=XXX.Com",
+      "Slug": "full"
+    }
+  ],
+  "updated_At": "2024-05-21T08:02:45.240312Z",
+  "type": "Movies"
+}
