@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "3 Idiots",
+    "slug": "3-idiots",
+    "total_Views": 25411,
+    "monthly_Views": 642,
+    "genre_string": "Drama, Comedy, Cinema, Full",
+    "genre": [
+      {
+        "name": "Drama",
+        "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-1.jpg"
+      },
+      {
+        "name": " Comedy",
+        "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-1.jpg"
+      },
+      {
+        "name": " Cinema",
+        "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-1.jpg"
+      },
+      {
+        "name": " Full",
+        "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-1.jpg"
+      }
+    ],
+    "cast": "Aamir Khan,Kareena Kapoor,Boman Irani,Mona Singh,Olivier Lafont",
+    "director": "Rajkumar Hirani",
+    "country": "India",
+    "year": 2024,
+    "release_Date": "2024-12-25T00:00:00.000000Z",
+    "update_Date": "2017-03-28T00:00:00.000000Z",
+    "cover": "https://xyncnd.online/Content/Imgs/Movies/cover-1.jpg",
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "trailer": "https://www.youtube.com/watch?v=K0eDlFX9GMc",
+    "imdb_rating": 8.4,
+    "quality": "Full HD",
+    "episodes_Count": 1,
+    "episodes": [
+      {
+        "Name": "Full",
+        "Link": "https://cdn.cdnmoviking.tech/embed?id=031b7727c1fa4b3480de37837a8e702e&subId=b4e79a3531a640d492d47dbef464f706&web=XXX.Com",
+        "Slug": "full"
+      }
+    ],
+    "updated_At": "2024-05-21T08:02:45.240272Z",
+    "type": "Movies"
+  }
+]
